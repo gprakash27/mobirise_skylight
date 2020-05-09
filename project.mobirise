@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Sky Light",
     "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
@@ -48,17 +48,24 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 12,
+    "uniqCompNum": 17,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/30-309857-colorful-camera-logo-png-transparent-png-128x86.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "about.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Gagan Prakash",
-        "order": 1,
+        "order": 2,
         "meta_image": "@PROJECT_PATH@/assets/images/img-8198-1162x775.jpeg"
       },
       "components": [
